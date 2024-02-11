@@ -1,5 +1,6 @@
 # Weatherforecast
 #Please Note: Code is under master
+
 This project is a weather forecast web application built using the Rust programming language and the Rocket framework. It retrieves weather data from the OpenWeatherMap API and displays it to the user. 
  
 The main functionality of the application includes making an HTTP request to the API, fetching weather data for a specific location (in this case, New York City), and presenting the temperature and description to the user. 
