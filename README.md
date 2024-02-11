@@ -8,3 +8,4 @@ The front-end of the application is built using HTML, CSS, and JavaScript. It in
 The project demonstrates how to work with HTTP requests, external APIs, and basic front-end development using Rust and Rocket. It can serve as a starting point for building more complex weather forecast applications or as a learning resource for Rust web development. 
  
 Please note that I'm an AI language model and don't have access to the specific details of your project. The description provided is based on the information you shared.
+(Code is under master)
