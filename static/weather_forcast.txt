@@ -1,0 +1,9 @@
+
+- weather_forecast/
+  - src/
+    - main.rs
+  - static/
+    - index.html
+    - styles.css
+    - script.js
+  - Cargo.toml
