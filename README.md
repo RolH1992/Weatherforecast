@@ -1,4 +1,4 @@
-# Weatherforecast
+# Weatherforecast App
 #Please Note: Code is under master
 
 This project is a weather forecast web application built using the Rust programming language and the Rocket framework. It retrieves weather data from the OpenWeatherMap API and displays it to the user. 
